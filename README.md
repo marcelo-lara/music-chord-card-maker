@@ -1,2 +1,4 @@
-# music-chord-card-maker
+# Chord card-maker
+
 Basic tool to create videos with chords to play along
+
