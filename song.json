@@ -1,0 +1,20 @@
+{
+    "bpm": "108",
+    "title": "Lalala",
+    "staff": [
+        
+        {"note": "C7", "dur": "2"}, 
+        {"note": "B7", "dur": "2"},
+        {"note": "%", "dur": "4"},
+        {"note": "%", "dur": "4"},
+        {"note": "%", "dur": "4"},
+        {"note": "F7", "dur": "4"},
+        {"note": "%", "dur": "4"},
+        {"note": "C7", "dur": "4"},
+        {"note": "%", "dur": "4"},
+        {"note": "G7", "dur": "4"},
+        {"note": "F7", "dur": "4"},
+        {"note": "C7", "dur": "4"},
+        {"note": "G7", "dur": "4"}
+    ]
+}
