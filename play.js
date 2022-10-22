@@ -7,7 +7,7 @@ const player = {
     staff_wrapper: undefined,
     playing: false,
     init: () => {
-        fetch("song.json")
+        fetch("cantaloop.json")
         .then(response => response.json())
         .then(player.load);
     },
@@ -57,7 +57,7 @@ const player = {
         //arm player
         player.current = -1;
 
-        player.next();
+       //  player.next();
     },
     next: (_idx) => {
         clearTimeout(player.timer);

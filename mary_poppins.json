@@ -1,0 +1,30 @@
+{
+    "bpm": "90",
+    "title": "Mary Poppins y el Deshollinador [A]",
+    "staff": [
+        
+        {"note": "E",    "dur": "2"}, 
+        {"note": "B/D#", "dur": "2"},
+        
+        {"note": "C#m7", "dur": "2"}, 
+        {"note": "E/B",  "dur": "2"},
+        
+        {"note": "A", "dur": "2"}, 
+        {"note": "E",  "dur": "2"},
+        
+        {"note": "F#7", "dur": "2"}, 
+        {"note": "B7",  "dur": "2"},
+        
+        {"note": "E", "dur": "2"}, 
+        {"note": "B7/D#",  "dur": "2"},
+        
+        {"note": "C#m7", "dur": "2"}, 
+        {"note": "E/B",  "dur": "2"},
+        
+        {"note": "A", "dur": "2"}, 
+        {"note": "E",  "dur": "2"},
+
+        {"note": "F#7", "dur": "2"}, 
+        {"note": "B7",  "dur": "2"}
+    ]
+}
